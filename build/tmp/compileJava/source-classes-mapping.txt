@@ -1,0 +1,6 @@
+com/thinking/machines/pojo/Student.java
+ com.thinking.machines.pojo.Student
+com/thinking/machines/mvcApp.java
+ com.thinking.machines.mvcApp
+com/thinking/machines/Main/Main.java
+ com.thinking.machines.Main.Main
